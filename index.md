@@ -7,4 +7,4 @@ title: "Homepage"
 
 # Secret Wiki - Homepage
 
-## ![tooltip](/misc_images/walkinggrapple.gif) Secret Wiki - Homepage![tooltip](/misc_images/walkinggrapple.gif)
+# ![tooltip](/misc_images/walkinggrapple.gif) Secret Wiki - Homepage![tooltip](/misc_images/walkinggrapple.gif)

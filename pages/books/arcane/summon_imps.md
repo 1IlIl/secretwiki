@@ -15,11 +15,11 @@ Imps other spell is Self Destruct. Self Destruct creates an arcane explosion tha
 
 In addition to these spells, there is a spell specifically for turning imps into arcane arrows called Imp Destruction, This also scales on the health of the imps and can even be used to turn your opponent’s imps into an attack against them. I will cover this spell in its own page so that is all I will say about that here.
 
-![imps4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps4.gif)
+![imps6](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps6.gif)
 
 Something to consider with imps is that Arcane Glyphs and Sigils do not block the summoning circle. This means that you can “bank” starting HP by placing them beforehand.
 
-![imps7](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps7.gif)
+![imps4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps4.gif)
 
 Like most split minions, consider splitting them apart using terrain height to protect them from simple ball spells or smaller AOE spells.
 
@@ -27,4 +27,4 @@ Like most split minions, consider splitting them apart using terrain height to p
 
 Something slightly more complicated, but very important with imps is how damage can pass through towers. Towers that do not float will pass any damage above it’s health in the following case: the tower sinks and the player must gate from the sink. This can be incredibly powerful for killing players, as the Self Destruct spell destroys an extreme amount of terrain with max health imps.
 
-![imps6](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps6.gif)
+![imps7](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps7.gif)

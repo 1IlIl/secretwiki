@@ -1,19 +1,31 @@
-## Arcane Arrows
+## Summon Imps 
 
-![arrows1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows.gif)
 
-Arcane Arrows are a basic, yet unique spell in Arcanists 2. They follow standard arrow mechanics, curving towards the target. The multi-projectile nature can make these arrows somewhat difficult to maximize the damage on, however there are a few tricks to maximize damage or even take advantage of this challenge.
+Imps are the main minion of the arcane book. There is a lot of synergy and spells that help or are helped by having imps.Imps have two spells, and are summoned in groups of three. Arcane imps are the only arcane minions that will heal from arcane damage. This means most spells, including their own, increase the imps health up to a maximum of 250.
 
-![arrows2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows2.gif)
+![imps1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps1.gif)
 
-The multi-projectile nature of Arcane Arrows means that it can be useful for applying knockback to flighted players, such that they do not fall directly downward.
+The first, and significantly less used spell is banish. Imp banish kills the imp and creates a very small cutout without ending the turn. The cutout does not depend on the imps health and has no additional benefits/uses(unlike the original game)
 
-![arrows3](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows3.gif)
+![imps2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps2.gif)
 
-Something used at a high level, but that is not talked about much is how to aim “through” your opponent with Arcane Arrows. This is so that flighted opponents get continuously hit by your arrows.
+Imps other spell is Self Destruct. Self Destruct creates an arcane explosion that scales with the imps health.
 
-![arrows4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows4.gif)
+![imps3](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps3.gif)
 
-Something not so logical is how Arcane Arrows are immune to Nature’s Wrath, but not shields like Flame Shield or Wind Shield.
+In addition to these spells, there is a spell specifically for turning imps into arcane arrows called Imp Destruction, This also scales on the health of the imps and can even be used to turn your opponent’s imps into an attack against them. I will cover this spell in its own page so that is all I will say about that here.
 
-![arrows5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows5.gif)
+![imps4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps4.gif)
+
+Something to consider with imps is that Arcane Glyphs and Sigils do not block the summoning circle. This means that you can “bank” starting HP by placing them beforehand.
+
+![imps5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps5.gif)
+
+Like most split minions, consider splitting them apart using terrain height to protect them from simple ball spells or smaller AOE spells.
+
+![imps6](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps6.gif)
+
+Something slightly more complicated, but very important with imps is how damage can pass through towers. Towers that do not float will pass any damage above it’s health in the following case: the tower sinks and the player must gate from the sink. This can be incredibly powerful for killing players, as the Self Destruct spell destroys an extreme amount of terrain with max health imps.
+
+![imps7](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps7.gif)
+

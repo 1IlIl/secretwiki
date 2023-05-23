@@ -1,10 +1,10 @@
 [homepage]({{site.baseurl}})
 
 
-[books](/books/)
+[books]({{site.baseurl}}/books)
 
 
-[mechanics](/mechanics/)
+[mechanics]({{site.baseurl})/mechanics/)
 
 
 [tricks](/tricks/)

@@ -1,4 +1,4 @@
-[homepage](index.md)
+[homepage](/)
 
 
 [books](books.md)

@@ -7,16 +7,16 @@
 [mechanics]({{site.baseurl}}/mechanics)
 
 
-[tricks](/tricks/)
+[tricks]({{site.baseurl}}/tricks)
 
 
-[tutorials](/tutorials/)
+[tutorials]({{site.baseurl}}/tutorials)
 
 
-[achievements](/achievements/)
+[achievements]({{site.baseurl}}/achievements)
 
 
-[clans](/clans/)
+[clans]({{site.baseurl}}/clans)
 
 
 [original wiki](https://docs.google.com/document/d/14hKvnEHJ0iPqTPVwT7anrsyMGdkRsJWfhD4Dtmk8YS0/edit#heading=h.omtkspw8ebdn)

@@ -5,4 +5,4 @@ title: "Arcane Book"
 
 {% include nav.md  %}
 
-# ![tooltip](/misc_images/walkinggrapple.gif) Secret Wiki - Arcane Book![tooltip](/misc_images/walkinggrapple.gif)
+# ![tooltip]({{site.miscimages}}/walkinggrapple.gif) Secret Wiki - Arcane Book![tooltip]({{site.miscimages}}/walkinggrapple.gif)

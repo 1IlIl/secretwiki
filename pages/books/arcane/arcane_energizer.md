@@ -1,19 +1,20 @@
-## Arcane Arrows
+## Arcane Energizer
 
-![arrows1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows.gif)
+Arcane Energizer is a basic personal effect that buffs arcane spells. There’s not much to show here as far as tricks, however I will describe the buffs to each spell in incredible detail.
 
-Arcane Arrows are a basic, yet unique spell in Arcanists 2. They follow standard arrow mechanics, curving towards the target. The multi-projectile nature can make these arrows somewhat difficult to maximize the damage on, however there are a few tricks to maximize damage or even take advantage of this challenge.
+![energizer1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcaneenergizer1.gif)
 
-![arrows2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows2.gif)
+- **Arcane Arrows** goes from 4x10=40 to being 4x15=60.
+- **Arcane Bomb** goes from 10+10x3=40 to 15+10x4=55.
+    - One additional arrow and only the flash part is buffed.(this extra arrow gives it more potential knockback btw)
+- **Arcane Glyphs** or **Sigils** go from 10 damage to 15 damage.
+- **Arcane Flash** goes from 15 to 20 damage.
+- **Arcane Mist** goes from 15 damage to 22 damage
+- **Imp Destruction** goes from 1 arrow per 10HP doing 10 damage to 1 arrow per 10HP doing 15 damage.
+- There is no change to **Arcane Egg**
+- There is no change to **Arcane Portal**.
+- There is no change to **Arcane Tower**.
+- There is no change to the summoning of **Imps** or **Self Destruct**.
+- There is no change to **Arcane Gate**.
 
-The multi-projectile nature of Arcane Arrows means that it can be useful for applying knockback to flighted players, such that they do not fall directly downward.
 
-![arrows3](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows3.gif)
-
-Something used at a high level, but that is not talked about much is how to aim “through” your opponent with Arcane Arrows. This is so that flighted opponents get continuously hit by your arrows.
-
-![arrows4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows4.gif)
-
-Something not so logical is how Arcane Arrows are immune to Nature’s Wrath, but not shields like Flame Shield or Wind Shield.
-
-![arrows5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows5.gif)

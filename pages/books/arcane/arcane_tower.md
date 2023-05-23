@@ -1,6 +1,4 @@
-## Arcane Arrows
-
-
+## Arcane Tower
 
 Arcane Tower, you know it, a basic spell which is pretty unique. Arcane Tower is a 25HP tower which heals from arcane damage. It can heal all the way to 100HP. 
 

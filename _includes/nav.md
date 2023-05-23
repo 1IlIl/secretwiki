@@ -1,22 +1,22 @@
 [homepage]({{site.baseurl}})
 
 
-[books](books.md)
+[books](/books.md)
 
 
-[mechanics](mechanics.md)
+[mechanics](/mechanics.md)
 
 
-[tricks](tricks.md)
+[tricks](/tricks.md)
 
 
-[tutorials](tutorials.md)
+[tutorials](/tutorials.md)
 
 
-[achievements](achievements.md)
+[achievements](/achievements.md)
 
 
-[clans](clans.md)
+[clans](/clans.md)
 
 
 [original wiki](https://docs.google.com/document/d/14hKvnEHJ0iPqTPVwT7anrsyMGdkRsJWfhD4Dtmk8YS0/edit#heading=h.omtkspw8ebdn)

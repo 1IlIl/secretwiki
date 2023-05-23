@@ -1,6 +1,6 @@
 ## Arcane Arrows
 
-![arrows1](gifs/arcanearrows.gif)
+![arrows1](https://github.com/1IlIl/wikidata/blob/main/arcane/gifs/arcanearrows.gif)
 
 Arcane Arrows are a basic, yet unique spell in Arcanists 2. They follow standard arrow mechanics, curving towards the target. The multi-projectile nature can make these arrows somewhat difficult to maximize the damage on, however there are a few tricks to maximize damage or even take advantage of this challenge.
 

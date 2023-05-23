@@ -1,4 +1,4 @@
-[homepage](/)
+[homepage]({{site.url}})
 
 
 [books](books.md)

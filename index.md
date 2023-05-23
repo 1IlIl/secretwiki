@@ -5,4 +5,4 @@ title: "Homepage"
 
 {% include nav.md  %}
 
-# ![tooltip](/misc_images/walkinggrapple.gif) Secret Wiki - Homepage![tooltip](/misc_images/walkinggrapple.gif)
+# ![tooltip]({{site.miscimages}}/walkinggrapple.gif) Secret Wiki - Homepage![tooltip]({{site.miscimages}}/walkinggrapple.gif)

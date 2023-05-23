@@ -4,7 +4,7 @@
 [books]({{site.baseurl}}/books)
 
 
-[mechanics]({{site.baseurl})/mechanics/)
+[mechanics]({{site.baseurl}}/mechanics/)
 
 
 [tricks](/tricks/)

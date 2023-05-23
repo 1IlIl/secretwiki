@@ -1,7 +1,7 @@
 [homepage]({{site.baseurl}})
 
 
-[books]({{site.toppage}}/books)
+[books]({{site.books}}/books)
 
 
 [mechanics]({{site.baseurl}}/mechanics)

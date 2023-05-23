@@ -7,4 +7,4 @@ title: "Books"
 
 # ![tooltip]({{site.miscimages}}/walkinggrapple.gif) Secret Wiki - Books![tooltip]({{site.miscimages}}/walkinggrapple.gif)
 
-[arcane]({{site.baseurl}}/books/arcane)
+[arcane]({{site.books}}/books/arcane/arcane)

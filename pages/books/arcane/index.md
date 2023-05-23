@@ -17,7 +17,7 @@ The Arcane book was originally part of the free to play kit. Arcane is generally
 {% include_relative arcane_portal.md %}
 {% include_relative summon_imps.md %}
 {% include_relative imp_destruction.md %}
-{% include_relative arcane_glyphs.md %}
+{% include_relative arcane_glyph.md %}
 {% include_relative arcane_sigil.md %}
 {% include_relative arcane_flash.md %}
 {% include_relative summon_dragon_egg.md %}

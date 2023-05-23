@@ -11,4 +11,11 @@ title: "Books"
 
 ### Arcane
 
-[arcane]({{site.books}}/arcane)
+[Arcane]({{site.books}}/arcane)
+
+
+### Arcane
+
+[Arcane Monster]({{site.books}}/arcane_monster)
+
+

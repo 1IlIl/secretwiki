@@ -31,16 +31,16 @@ This means that you want your opponents to be as far as possible from the center
 ![hur5](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/hur6.gif)
 
 
-Something important to note is that curricane doesn’t reliably pull players towards you at all. If a player has terrain above them,you almost certainly are not going to land a successful hurricane.
+Something important to note is that hurricane doesn’t reliably pull players towards you at all. If a player has terrain above them,you almost certainly are not going to land a successful hurricane.
 
 
-![hur6](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/hur7.gif)
+![hur6](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/hur8.gif)
 
 
 Hurricane doesn’t work like this either.
 
 
-![hur7](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/hur8.gif)
+![hur7](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/hur7.gif)
 
 
 Something cool to note is that hurricane can throw napalm around. This can be quite dangerous for the caster, however at the end of the spell, all the napalm will no longer be near you.

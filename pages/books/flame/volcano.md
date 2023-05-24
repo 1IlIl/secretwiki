@@ -22,13 +22,13 @@ While Volcano would seem ideal for turtling opponents at the bottom of the map. 
 Something on the flip side is when Volcanodoes sink the tower. Often times this will happen when the player is roughly a fireball radius from the bottom of the map.
 
 
-![cano4](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/cano4.gif)
+![cano5](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/cano5.gif)
 
 
 While it is simple to just think about the initial damage, Volcano is immensely powerful in it’s ability to turn the map into a wasteland. It is important to keep this in mind both in in defending yourself as well as perhaps setting up an opening that your opponent did not expect.
 
 
-![cano5](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/cano5.gif)
+![cano4](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/cano4.gif)
 
 
 Something to note is that Nature’s Wrath may be used by your opponent to manipulate your Volcano.

@@ -32,4 +32,3 @@ Something rather unique about Dragon Egg is that it triggers the death of the Eg
 One last thing that I will mention about Dragon Egg is that there is a secret mechanic or trick of sorts to hatch Cog Dragons.This can be done by killing a Dragon Egg with a Clockwork Bomb. The challenge here is that Clockwork bomb will not always explode soon enough that the Egg has not gained too much HP to survive the explosion. This must be the explosion and not the cogs that are generated. The cogs from clockwork bomb can kill the egg without hatching a Cog Dragon.
 
 ![egg10](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/egg10.gif)
-<br />

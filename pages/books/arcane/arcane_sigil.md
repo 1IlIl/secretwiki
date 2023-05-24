@@ -11,5 +11,3 @@ Sigil is one of the lesser used spells in the book. It has a few tricks, but oth
 Now the portal setup is a bit of a stretch; you won’t see it much in competitive play, but there is one trick that you might see. This trick is placing the glyphs such that it does 10 damage immediately to a player. This, much like the portal grabbing tricks, relies on placing the target very precisely such that it overlaps with the player. Now the shape of the sigil does matter a bit. The lower left corner of the glyph is the most reliable for this trick.However the right side is also possible.
 
 ![sigil2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/sigil2.gif)
-
-<br />

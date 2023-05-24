@@ -16,6 +16,3 @@ Arcane Energizer is a basic personal effect that buffs arcane spells. There’s 
 - There is no change to **Arcane Tower**.
 - There is no change to the summoning of **Imps** or **Self Destruct**.
 - There is no change to **Arcane Gate**.
-
-
-<br />

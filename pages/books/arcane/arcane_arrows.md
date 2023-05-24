@@ -17,4 +17,3 @@ Something used at a high level, but that is not talked about much is how to aim 
 Something not so logical is how Arcane Arrows are immune to Nature’s Wrath, but not shields like Flame Shield or Wind Shield.
 
 ![arrows5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows5.gif)
-<br />

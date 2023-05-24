@@ -31,4 +31,3 @@ If you don’t want to dig at all, you can curve the arrows close enough to hit 
 Something important to note is that the initial damage of Arcane Meteor is not actually arcane and will not heal the tower. Another thing to mention though is the arcane arrows and subsequent glyphs created by the meteor will sometimes handle keeping you in your tower.
 
 ![tower8](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanetowerextra.gif)
-<br />

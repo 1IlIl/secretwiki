@@ -10,5 +10,3 @@ Imp destruction is not always the right answer, however it sometimes comes in ha
 
 
 ![destruction2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/impdes2.gif)
-
-<br />

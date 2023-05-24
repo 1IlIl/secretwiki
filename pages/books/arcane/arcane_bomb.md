@@ -23,4 +23,3 @@ Something flashy that I use from time to time is the ability to knock arcane bom
 Something to keep in mind is that when you use arcane bomb, it breaks the terrain and knocks back before firing the arrows, so sometimes you need to aim not where the player is, but where they will be.
 
 ![bomb6](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanebomb6.gif)
-<br />

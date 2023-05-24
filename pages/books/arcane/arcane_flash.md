@@ -31,7 +31,3 @@ Something that might not always click even more so is that you can flash mounts 
 ![flash7](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/flash7.gif)
 
 As a final note, I will address the myth that there is a curve on the flash knockback. What this means is that people have previously hypothesized that there was some sort of reduced or increased knockback based on distance from the center of the flash. I have run tests and I can tell you affirmatively that there is indeed no more or less than 33 force applied at any point on the hitbox.
-
-
-
-<br />

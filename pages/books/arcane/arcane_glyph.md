@@ -11,5 +11,3 @@ These glyphs are blocked by terrain(they will not summon inside it), however the
 Arcane Glyphs can be useful for blocking opponents or charging your imps, but it can also be used for things like killing Forest Seed.
 
 ![glyph2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/glyph2.gif)
-
-<br />

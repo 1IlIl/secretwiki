@@ -7,7 +7,7 @@
 Flame shield is a spell that applies a flame shield effect(deflecting spells) to the player which deactivates after blocking a spell and lasts 5 turns.
 
 
-![shield1](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield1.gif)
+![shield1](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield.gif)
 
 
 Something important to understand is that flame shield only blocks one spell between your turn starting, and the  next time your turn starts. This means in teams format or with armageddon, Flame Shield will block one spell, but not all spells.

@@ -1,5 +1,7 @@
 ## Arcane Flash
 
+<span style="color:red">This needs to be updated due to the flash knockback changes</span>
+
 Arcane Flash, like Arcane Gate, is an extremely popular spell. There is so much information from this section that I almost would classify as necessary to play arc at any competitive level, however at it’s core Arcane Flash is simply a low damage spell that flings players and minions.
 
 ![flash1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/flash1.gif)

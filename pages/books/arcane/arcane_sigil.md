@@ -1,19 +1,14 @@
-## Arcane Arrows
+## Arcane Sigil 
 
-![arrows1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows.gif)
+Arcane Sigil is a spell that lets you summon three glyphs anywhere on the map that is not inhabited by terrain or minions.
 
-Arcane Arrows are a basic, yet unique spell in Arcanists 2. They follow standard arrow mechanics, curving towards the target. The multi-projectile nature can make these arrows somewhat difficult to maximize the damage on, however there are a few tricks to maximize damage or even take advantage of this challenge.
+![sigil1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/sigil1.gif)
 
-![arrows2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows2.gif)
+Sigil is one of the lesser used spells in the book. It has a few tricks, but otherwise it is generally a control tool for blocking minions or players. One such trick is to portal someone into the glyphs. This can be powerful because glyphs do apply a knockback. 
 
-The multi-projectile nature of Arcane Arrows means that it can be useful for applying knockback to flighted players, such that they do not fall directly downward.
+![portal9](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcaneportal9.gif)
 
-![arrows3](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows3.gif)
+Now the portal setup is a bit of a stretch; you won’t see it much in competitive play, but there is one trick that you might see. This trick is placing the glyphs such that it does 10 damage immediately to a player. This, much like the portal grabbing tricks, relies on placing the target very precisely such that it overlaps with the player. Now the shape of the sigil does matter a bit. The lower left corner of the glyph is the most reliable for this trick.However the right side is also possible.
 
-Something used at a high level, but that is not talked about much is how to aim “through” your opponent with Arcane Arrows. This is so that flighted opponents get continuously hit by your arrows.
+![sigil2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/sigil2.gif)
 
-![arrows4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows4.gif)
-
-Something not so logical is how Arcane Arrows are immune to Nature’s Wrath, but not shields like Flame Shield or Wind Shield.
-
-![arrows5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows5.gif)

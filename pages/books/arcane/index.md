@@ -13,7 +13,18 @@ The Arcane book was originally part of the free to play kit. Arcane is generally
 
 <br />
 ## Spells: 
-[Arcane Arrows](#arcane-arrows) [Arcane Bomb](#arcane-bomb) [Arcane Tower](#arcane-tower) [Arcane Energizer](#arcane-energizer) [Arcane Gate](#arcane-gate) [Arcane Portal](#arcane-portal) [Summon Imps](#summon-imps) [Imp Destruction](#imp-destruction) [Arcane Glyph](#arcane-glyph) [Arcane Sigil](#arcane-sigil) [Arcane Flash](#arcane-flash) [Summon Dragon Egg](#summon-dragon-egg)
+[Arcane Arrows](#arcane-arrows) 
+[Arcane Bomb](#arcane-bomb) 
+[Arcane Tower](#arcane-tower) 
+[Arcane Energizer](#arcane-energizer) 
+[Arcane Gate](#arcane-gate) 
+[Arcane Portal](#arcane-portal) 
+[Summon Imps](#summon-imps) 
+[Imp Destruction](#imp-destruction) 
+[Arcane Glyph](#arcane-glyph) 
+[Arcane Sigil](#arcane-sigil) 
+[Arcane Flash](#arcane-flash) 
+[Summon Dragon Egg](#summon-dragon-egg)
 <br /><br /><br /><br />
 
 {% include_relative arcane_arrows.md %}

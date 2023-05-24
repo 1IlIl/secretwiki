@@ -25,7 +25,7 @@ Book of Nature, supposedly meant to be a team focused book, revolves around crea
 [Sanctuary](#sanctuary) 
 [Summon Elves](#summon-elves) 
 [Flurry](#flurry) 
-[Nature's Wrath](#natures-wrath) 
+[Nature's Wrath](#nature's-wrath) 
 [Vine Bloom](#vine-bloom) 
 
 <br /><br /><br /><br />

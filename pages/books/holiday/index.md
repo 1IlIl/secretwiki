@@ -30,7 +30,7 @@ Book of Holiday was the first book to be added by pur3 extreme and the community
 
 <br /><br /><br /><br />
 
-{% include_relative stocking-stuffer.md %}
+{% include_relative stocking_stuffer.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 

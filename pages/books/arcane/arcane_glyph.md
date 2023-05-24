@@ -1,19 +1,14 @@
-## Arcane Arrows
+## Arcane Glyph 
 
-![arrows1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows.gif)
+Arcane Glyph summons up to 10 “glyphs” in a circle around the player. While Arcane Glyphs do not have many uses, they have a few important ones like with imps.
 
-Arcane Arrows are a basic, yet unique spell in Arcanists 2. They follow standard arrow mechanics, curving towards the target. The multi-projectile nature can make these arrows somewhat difficult to maximize the damage on, however there are a few tricks to maximize damage or even take advantage of this challenge.
+![imps7](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps7.gif)
 
-![arrows2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows2.gif)
+These glyphs are blocked by terrain(they will not summon inside it), however they will summon inside minions and going off immediately.
 
-The multi-projectile nature of Arcane Arrows means that it can be useful for applying knockback to flighted players, such that they do not fall directly downward.
+![glyph1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/glyph1.gif)
 
-![arrows3](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows3.gif)
+Arcane Glyphs can be useful for blocking opponents or charging your imps, but it can also be used for things like killing Forest Seed.
 
-Something used at a high level, but that is not talked about much is how to aim “through” your opponent with Arcane Arrows. This is so that flighted opponents get continuously hit by your arrows.
+![glyph2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/glyph2.gif)
 
-![arrows4](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows4.gif)
-
-Something not so logical is how Arcane Arrows are immune to Nature’s Wrath, but not shields like Flame Shield or Wind Shield.
-
-![arrows5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcanearrows5.gif)

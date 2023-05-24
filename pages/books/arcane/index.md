@@ -10,6 +10,21 @@ title: "Arcane Book"
 
 The Arcane book was originally part of the free to play kit. Arcane is generally a weaker book that can be deceptively powerful if left to set up its' strategies.
 
+## LINKS
+[Arcane Arrows](#arcane-arrows)
+[Arcane Bomb](#arcane-bomb)
+[Arcane Tower](#arcane-tower)
+[Arcane Energizer](#arcane-energizer)
+[Arcane Gate](#arcane-gate)
+[Arcane Portal](#arcane-portal)
+[Summon Imps](#summon-imps)
+[Imp Destruction](#imp-destruction)
+[Arcane Glyph](#arcane-glyph)
+[Arcane Sigil](#arcane-sigil)
+[Arcane Flash](#arcane-flash)
+[Summon Dragon Egg](#summon-dragon-egg)
+
+
 {% include_relative arcane_arrows.md %}
 [GO TO TOP](#secret-wiki---arcane-book)
 

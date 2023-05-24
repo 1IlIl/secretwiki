@@ -1,4 +1,4 @@
-## Arcane Arrows
+## Arcane Sigil
 
-![arrows1](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane_monster/gifs/arcanearrows.gif)
 
+It's just Arcane Sigil

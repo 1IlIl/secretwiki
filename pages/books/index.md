@@ -14,7 +14,7 @@ title: "Books"
 [Arcane]({{site.books}}/arcane)
 
 
-### Arcane
+### Arcane Monster
 
 [Arcane Monster]({{site.books}}/arcane_monster)
 

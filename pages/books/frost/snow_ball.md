@@ -34,11 +34,11 @@ Versus Smaller minions it is not the most reliable spell, however if you aim tow
 Something to note is that this snow is melted by flame shield and flame wall.
 
 
-![snowball6](https://raw.githubusercontent.com/1IlIl/wikidata/main/frost/gifs/snowball6.gif)
+![flameshield16](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield16.gif)
 
 
 Something that’s a bit difficult to explain is why snowball is generally not “spammable”. If you use snowball multiple times in a row, you will notice it does less damage over time. This is due to terrain building up, and the snow sticking to the terrain rather than dealing damage to the player.
 
 
-![snowball7](https://raw.githubusercontent.com/1IlIl/wikidata/main/frost/gifs/snowball7.gif)
+![snowball6](https://raw.githubusercontent.com/1IlIl/wikidata/main/frost/gifs/snowball6.gif)
 

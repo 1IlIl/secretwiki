@@ -1,92 +1,92 @@
 ---
 layout: default
-title: "Book of Frost"
+title: "Book of Underdark"
 ---
 
 
 {% include nav.md  %}
 
 <br />
-# ![tooltip]({{site.miscimages}}/walkinggrapple.gif)Secret Wiki - Book of Frost![tooltip]({{site.miscimages}}/walkinggrapple.gif)
+# ![tooltip]({{site.miscimages}}/walkinggrapple.gif)Secret Wiki - Book of Underdark![tooltip]({{site.miscimages}}/walkinggrapple.gif)
 
 
-Book of Storm is an offensive book very similar to Flame ,but with much less terrain control. Storm makes up for this by having some of the most powerful spells in the game.
+Book of Underdark is what I would guess was an unintentionally powerful book focused around zombification and stealing life from minions. You will see spells from this book in almost every game.
 
 
 <br />
 ## Spells: 
-[Thunder Shock](#thunder-shock) 
-[Chain Lightning](#chain-lightning) 
-[Wind Shield](#wind-shield) 
-[Hurricane](#hurricane) 
-[Shock Bomb](#shock-bomb) 
-[Shock Shield](#shock-shield) 
-[Summon Cyclops](#summon-cyclops) 
-[Conductor Rod](#conductor-rod) 
-[Summon Storm Spirit](#summon-storm-spirit) 
-[Flight](#flight) 
-[Storm](#storm) 
-[Summon Storm Dragon](#summon-storm-dragon) 
+[Den of Darkness](#den-of-darkness) 
+[Rain of Chaos](#rain-of-chaos) 
+[Drain Bolt](#drain-bolt) 
+[Death Bomb](#death-bomb) 
+[Summon Swarm](#summon-swarm) 
+[Summon Dark Knight](#summon-dark-knight) 
+[Raise Dead](#raise-dead) 
+[Summon Wraith](#summon-wraith) 
+[Aura of Decay](#aura-of-decay) 
+[Dark Defences](#dark-defences) 
+[Swallowing Pit](#swallowing-pit) 
+[Lichdom](#lichdom) 
 
 <br /><br /><br /><br />
 
-{% include_relative thunder_shock.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative den_of_darkness.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative chain_lightning.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative rain_of_chaos.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative wind_shield.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative drain_bolt.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative hurricane.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative death_bomb.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative shock_bomb.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative summon_swarm.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative shock_shield.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative summon_dark_knight.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative summon_cyclops.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative raise_dead.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative conductor_rod.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative summon_wraith.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative summon_storm_spirit.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative aura_of_decay.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative flight.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative dark_defences.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative storm.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative swallowing_pit.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 
-{% include_relative summon_storm_dragon.md %}
-[GO TO TOP](#secret-wiki---book-of-storm)
+{% include_relative lichdom.md %}
+[GO TO TOP](#secret-wiki---book-of-underdark)
 <br /><br /><br /><br />
 
 

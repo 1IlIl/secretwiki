@@ -49,3 +49,4 @@ The Arcane book was originally part of the free to play kit. Arcane is generally
 
 
 [Section 1](#section-1)
+[TOP](#secret-wiki---arcane-book)

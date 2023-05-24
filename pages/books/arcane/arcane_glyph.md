@@ -2,7 +2,7 @@
 
 Arcane Glyph summons up to 10 “glyphs” in a circle around the player. While Arcane Glyphs do not have many uses, they have a few important ones like with imps.
 
-![imps7](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps7.gif)
+![imps5](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/summonimps5.gif)
 
 These glyphs are blocked by terrain(they will not summon inside it), however they will summon inside minions and going off immediately.
 

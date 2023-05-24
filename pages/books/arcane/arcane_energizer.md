@@ -18,3 +18,4 @@ Arcane Energizer is a basic personal effect that buffs arcane spells. There’s 
 - There is no change to **Arcane Gate**.
 
 
+<br />

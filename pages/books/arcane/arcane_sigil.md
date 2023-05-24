@@ -12,3 +12,4 @@ Now the portal setup is a bit of a stretch; you won’t see it much in competiti
 
 ![sigil2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/sigil2.gif)
 
+<br />

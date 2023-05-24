@@ -39,3 +39,4 @@ Portal can also be used to grab an opponent towards you. This can be used to pul
 Something slightly more difficult, but very possible is to move people away from you with a portal. This is the most powerful use of what is referred to as portal grabbing and placing an opponent at any point in the map has many uses. A common use is simply to move them over the water so that they fall and sink.This can be fairly difficult to line up or position given the opponent’s location, however things like flight, or using on an opponent who is flighted can be very simple, albeit sometimes time consuming.
 
 ![portal10](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/arcaneportal10.gif)
+<br />

@@ -12,3 +12,4 @@ Arcane Glyphs can be useful for blocking opponents or charging your imps, but it
 
 ![glyph2](https://raw.githubusercontent.com/1IlIl/wikidata/main/arcane/gifs/glyph2.gif)
 
+<br />

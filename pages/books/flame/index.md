@@ -9,7 +9,9 @@ title: "Book of Flame"
 <br />
 # ![tooltip]({{site.miscimages}}/walkinggrapple.gif)Secret Wiki - Book of Flame![tooltip]({{site.miscimages}}/walkinggrapple.gif)
 
-The Arcane book was originally part of the free to play kit. Arcane is generally a weaker book that can be deceptively powerful if left to set up its' strategies.
+
+Originally all except the lv3s of Flame were a part of the free to play kit. An offensive focused book with a focus on attacking from multiple directions.
+
 
 <br />
 ## Spells: 

@@ -10,12 +10,14 @@ title: "Books"
 
 
 ### Arcane
-
 [Arcane]({{site.books}}/arcane)
 
 
 ### Arcane Monster
-
 [Arcane Monster]({{site.books}}/arcane_monster)
+
+
+### Book of Flame 
+[Book of Flame]({{site.books}}/flame)
 
 

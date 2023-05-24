@@ -15,77 +15,77 @@ Book of Holiday was the first book to be added by pur3 extreme and the community
 
 <br />
 ## Spells: 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
+[Stocking Stuffer](#stocking-stuffer) 
+[Presents!](#presents!) 
+[New Years Rocket](#new-years-rocket) 
+[Firecrackers](#firecrackers) 
+[Chistmas Tree](#christmas-tree) 
+[Santa's Magic](#santa's-magic) 
+[Summon Snowman](#summon-snowman) 
+[Summon Reindeer](#summon-reindeer) 
+[Jingle Boom!](#jingle-boom!) 
+[Thanksgiving Dinner](#thanksgiving-dinner) 
+[Snow Globe](#snow-globe) 
+[Firework Show](#firework-show) 
 
 <br /><br /><br /><br />
 
-{% include_relative .md %}
+{% include_relative stocking-stuffer.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative presents.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative new_years_rocket.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative firecrackers.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative christmas_tree.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative santas_magic.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative summon_snowman.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative summon_reindeer.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative jingle_boom.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative thanksgiving_dinner.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative snow_globe.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative firework_show.md %}
 [GO TO TOP](#secret-wiki---book-of-holiday)
 <br /><br /><br /><br />
 

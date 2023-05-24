@@ -15,77 +15,77 @@ Book of Overlight is the counterpart to Underdark, focusing on healing and apply
 
 <br />
 ## Spells: 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
+[Protection Shield](#protection-shield) 
+[Sky Ray](#sky-ray) 
+[Shining Bolt](#shining-bolt) 
+[Rising Star](#rising-star) 
+[Summon Pegasus](#summon-pegasus) 
+[Summon Paladin](#summon-paladin) 
+[Forest Seed](#forest-seed) 
+[Summon Pixies](#summon-pixies) 
+[Sphere of Healing](#sphere-of-healing) 
+[Castle of Light](#castle-of-light) 
+[Invulnerability Shield](#invulnerability-shield) 
+[Shining Power](#shining-power) 
 
 <br /><br /><br /><br />
 
-{% include_relative .md %}
+{% include_relative protection_shield.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative sky_ray.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative shining_bolt.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative rising_star.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative summon_pegasus.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative summon_paladin.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative forest_seed.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative summon_pixies.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative sphere_of_healing.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative castle_of_light.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative invulnerability_shield.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative shining_power.md %}
 [GO TO TOP](#secret-wiki---book-of-overlight)
 <br /><br /><br /><br />
 

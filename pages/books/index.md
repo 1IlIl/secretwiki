@@ -21,3 +21,7 @@ title: "Books"
 [Book of Flame]({{site.books}}/flame)
 
 
+### Book of Stone
+[Book of Stone]({{site.books}}/stone)
+
+

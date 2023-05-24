@@ -75,7 +75,7 @@ Book of Cosmos is a gravity focused book with strong aerials and unique knockbac
 <br /><br /><br /><br />
 
 
-{% include_relative cosmic_horro.md %}
+{% include_relative cosmic_horror.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 

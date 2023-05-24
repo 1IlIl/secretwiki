@@ -8,7 +8,7 @@ title: "Arcane Book"
 
 # ![tooltip]({{site.miscimages}}/walkinggrapple.gif) Secret Wiki - Arcane Book![tooltip]({{site.miscimages}}/walkinggrapple.gif)
 
-# [ testing ][tst]
+## Section 1 ##
 
 The Arcane book was originally part of the free to play kit. Arcane is generally a weaker book that can be deceptively powerful if left to set up its' strategies.
 
@@ -48,4 +48,4 @@ The Arcane book was originally part of the free to play kit. Arcane is generally
 {% include_relative summon_dragon_egg.md %}
 
 
-[go to testing](#tst)
+[Section 1](#section-1)

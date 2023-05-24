@@ -28,17 +28,15 @@ It’s very important that  if you want to exploit this weakness from below that
 The spirit’s wind shield is also noticeably shorter in duration than the player’s. It’s even shorter than Flame Shield.
 
 
-![ssp5](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/ssp5.gif)
+![ssp5](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/sspidk.gif)
 
 
 You can also break Storm Spirit Shield horizontally with an arrow or ball spell..
 
 
-![ssp6](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/ssp6.gif)
+![ssp6](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/sspidk2.gif)
 
 
 Something not everyone considers is that storm spirit exists before flight. Make sure to use it if you can!
 
-
-![ssp7](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/ssp7.gif)
 

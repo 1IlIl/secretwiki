@@ -11,13 +11,13 @@ Shock bomb is a smaller than average bomb with a normal elasticity and an extrem
 Something to note is that this extremely low hitbox can be useful for dealing a ton of damage through things.
 
 
-![sb2](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/sb2.gif)
+![sb2](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/sb3.gif)
 
 
 If you miss in the below direction even by a little bit, shock bomb can easily do 0 damage. The falloff on this bomb is also extreme, meaning that being far can sometimes do as low as 30ish damage.
 
 
-![sb3](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/sb3.gif)
+![sb3](https://raw.githubusercontent.com/1IlIl/wikidata/main/storm/gifs/sb2.gif)
 
 
 The hitbox being as wonky it is, It’s important to note that you need to land the bomb pretty close to the center of the player to knock the player upward. Landing it next to a player will most often send them sideways.

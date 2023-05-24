@@ -74,13 +74,13 @@ Let’s talk now about abusing the timing aspect of Flame Shield. Many spells ca
 Because the bomb aspect will deactivate the shield before exploding, bombs that generate projectiles will spawn such projectiles completely unaffected by flame shield. This is particularly useful with arcane bomb.
 
 
-![shield12](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield12.gif)
+![shield13](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield13.gif)
 
 
 In addition to all this, the hitbox is not perfect, and because of the weakness of the shield, you can still place bombs in a spot that would be affected by the deflection.
 
 
-![shield13](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield13.gif)
+![shield12](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield12.gif)
 
 
 Ok now something more practical and extremely important about Flame Shield is that arrows are able to ignore it. Something about the deflection cannot handle deflecting arrows that are roughly 45 degrees aimed towards the bottom of the player. It’s likely due to the shape of the hitbox neglecting it. This means Rain of Arrows is very simple to pull off with this trick.

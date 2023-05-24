@@ -80,3 +80,16 @@ In the original game, there was a JMOD book based on being an OP version of Arca
 <br /><br /><br /><br />
 
 
+{% include_relative arcane_mist.md %}
+[GO TO TOP](#secret-wiki---arcane-monster)
+<br /><br /><br /><br />
+
+
+{% include_relative arcane_dragon.md %}
+[GO TO TOP](#secret-wiki---arcane-monster)
+<br /><br /><br /><br />
+
+
+{% include_relative arcane_meteor.md %}
+[GO TO TOP](#secret-wiki---arcane-monster)
+<br /><br /><br /><br />

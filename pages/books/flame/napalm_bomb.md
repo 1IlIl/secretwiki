@@ -21,3 +21,5 @@ It’s so ass. There’s a few uses where it’s not a complete waste of a spell
 
 The only other thing I can think of is that napalm bomb can be very useful is the very situational time that there is a phantom or apparition that you would like to deny or make more difficult. Napalm bomb can create a uniform distribution of napalm that can make these spells difficult to manuver around.
 
+
+![bomb4](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/nb4.gif)

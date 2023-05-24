@@ -22,7 +22,7 @@ While it may seem like this makes it immune to it’s own attack, it is importan
 While most people know that Flame Dragon is immune to napalm, not many know that Flame Dragon is also immune to the explosion from touching Flame Wall.
 
 
-![drag4](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/drag4.gif)
+![drag4](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/4drag.gif)
 
 
 Flame dragon is a fairly large minion, and as such it can be somewhat easy to trap. Something to consider is that the radius is so large that a single mud ball will not block the dragon alone, so make sure not to give the opponent the other side of the trap!

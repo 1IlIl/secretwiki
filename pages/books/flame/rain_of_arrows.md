@@ -40,7 +40,7 @@ Another trick is to aim for an already hit tower. This can take some getting use
 Something else that is very useful is what ROA does when it interacts with shields. Like you saw if you read the flame shield section, ROA can ignore flame shield if aimed correctly.
 
 
-![shield13](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield13.gif)
+![shield14](https://raw.githubusercontent.com/1IlIl/wikidata/main/flame/gifs/flameshield14.gif)
 
 
 While ROA is less effective towards Wind Shield, using this same trick can get you at least a little bit of damage versus some targets. Sometimes that is all you need.

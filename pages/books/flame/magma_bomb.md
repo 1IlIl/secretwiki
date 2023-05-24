@@ -1,4 +1,4 @@
-## Fire Ball
+## Magma Bomb 
 
 
 Magma Bomb is one of the best spells of Book of Flame. It is an RNG based spell that can sometimes deal a ton of damage. Magma bomb, when it explodes, explosed for 25 damage and spawn 4 projectiles which each fly out and explode upon contacting a player or terrain.

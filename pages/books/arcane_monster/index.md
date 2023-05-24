@@ -12,7 +12,21 @@ In the original game, there was a JMOD book based on being an OP version of Arca
 
 <br />
 ## Spells: 
-[Arcane Arrows](#arcane-arrows) [Arcane Bomb](#arcane-bomb) [Arcane Tower](#arcane-tower) [Arcane Energizer](#arcane-energizer) [Arcane Gate](#arcane-gate) [Arcane Portal](#arcane-portal) [Summon Imps](#summon-imps) [Imp Destruction](#imp-destruction) [Arcane Glyph](#arcane-glyph) [Arcane Sigil](#arcane-sigil) [Arcane Flash](#arcane-flash) [Summon Dragon Egg](#summon-dragon-egg)
+[Arcane Arrows](#arcane-arrows)
+[Arcane Bomb](#arcane-bomb) 
+[Arcane Tower](#arcane-tower) 
+[Arcane Energizer](#arcane-energizer) 
+[Arcane Gate](#arcane-gate) 
+[Arcane Portal](#arcane-portal) 
+[Summon Imps](#summon-imps) 
+[Imp Destruction](#imp-destruction) 
+[Arcane Glyph](#arcane-glyph) 
+[Arcane Sigil](#arcane-sigil) 
+[Arcane Flash](#arcane-flash) 
+[Summon Dragon Egg](#summon-dragon-egg)
+[Arcane Mist](#arcane-mist)
+[Arcane Dragon](#arcane-dragon)
+[Arcane Meteor](#arcane-meteor)
 <br /><br /><br /><br />
 
 {% include_relative overview.md %}

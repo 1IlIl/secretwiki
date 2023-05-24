@@ -15,77 +15,77 @@ Book of Cosmos is a gravity focused book with strong aerials and unique knockbac
 
 <br />
 ## Spells: 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
-[]() 
+[Collision Course](#collision-course) 
+[Shooting Stars](#shooting-stars) 
+[Gravity Pulse](#gravity-pulse) 
+[Dark Matter Bomb](#dark-matter-bomb) 
+[Abduction](#abduction) 
+[Wormhole](#wormhole) 
+[Fusion](#fusion) 
+[MACAIR](#macair) 
+[Summon Drone](#summon-drone) 
+[Cosmic Horror](#cosmic-horror) 
+[Black Hole](#black-hole) 
+[Supernova](#supernova) 
 
 <br /><br /><br /><br />
 
-{% include_relative .md %}
+{% include_relative collision_course.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative shooting_stars.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative gravity_pulse.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative dark_matter_bomb.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative abduction.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative wormhole.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative fusion.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative macair.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative summon_drone.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative cosmic_horro.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative black_hole.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 
 
-{% include_relative .md %}
+{% include_relative supernova.md %}
 [GO TO TOP](#secret-wiki---book-of-cosmos)
 <br /><br /><br /><br />
 

@@ -4,19 +4,13 @@
 [books]({{site.books}})
 
 
-[mechanics]({{site.baseurl}}/mechanics)
+[achievements]({{site.baseurl}}/pages/achievements)
 
 
-[tricks]({{site.baseurl}}/tricks)
+[tips,tricks,mechanics,and stuff]({{site.baseurl}}/pages/mechanics)
 
 
-[tutorials]({{site.baseurl}}/tutorials)
-
-
-[achievements]({{site.baseurl}}/achievements)
-
-
-[clans]({{site.baseurl}}/clans)
+[tutorials]({{site.baseurl}}/pages/tutorials)
 
 
 [original wiki](https://docs.google.com/document/d/14hKvnEHJ0iPqTPVwT7anrsyMGdkRsJWfhD4Dtmk8YS0/edit#heading=h.omtkspw8ebdn)

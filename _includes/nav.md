@@ -7,7 +7,7 @@
 [achievements]({{site.baseurl}}/pages/achievements)
 
 
-[tips,tricks,mechanics,and stuff]({{site.baseurl}}/pages/mechanics)
+[tips,tricks,mechanics,and stuff]({{site.baseurl}}/pages/tricks)
 
 
 [tutorials]({{site.baseurl}}/pages/tutorials)

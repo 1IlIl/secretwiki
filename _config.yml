@@ -4,3 +4,4 @@ title: "Secret Wiki" # the name of your site, e.g. ACME Corp.
 miscimages: "/secretwiki/misc_images"
 pages: "/secretwiki/pages"
 books: "/secretwiki/pages/books"
+achievments: "/secretwiki/pages/achievements"

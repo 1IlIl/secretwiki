@@ -7,5 +7,5 @@ The first way to Elevator the DK is to put the flying creature against the edge 
 <video controls="true" width="800" height="500" ><source src="https://raw.githubusercontent.com/1IlIl/wikidata/main/tra_trsw2_stuff/Elevatoring.mp4"></video>
 
 
-<video controls="true" width="800" height="500" ><source src="https://raw.githubusercontent.com/1IlIl/wikidata/main/tra_trsw2_stuff/Elevator2.mp4"></video>
+<video controls="true" width="800" height="500" ><source src="https://raw.githubusercontent.com/1IlIl/wikidata/main/tra_trsw2_stuff/Elevatoring2.mp4"></video>
 

@@ -16,6 +16,8 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 [Bombs and why they phase](#bombs-and-why-they-phase) 
 [Make your bombs sticky](#make-your-bombs-sticky) 
 [Aerials and the Tops and Bottoms of the world.](#aerials-and-the-tops-and-bottoms-of-the-world)
+[Mounted creatures and the top of the map](#mounted-creatures-and-the-top-of-the-map)
+[Elevatoring](#elevatoring)
 
 <br/><br/><br/><br/>
 {% include_relative things/extendo_stuff.md  %}
@@ -27,3 +29,7 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 {% include_relative things/make_your_bombs_sticky.md %}
 <br/><br/><br/><br/>
 {% include_relative things/aerials_and_the_tops_and_bottoms_of_the_world.md %}
+<br/><br/><br/><br/>
+{% include_relative things/mounted_creatures_and_the_top_of_the_map.md %}
+<br/><br/><br/><br/>
+{% include_relative things/elevatoring.md %}

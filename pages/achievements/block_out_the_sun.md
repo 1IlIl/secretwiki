@@ -2,7 +2,4 @@
 
 
 
-
-
-Win a rated game. No secrets or tricks here.
-
+You just need to cast flurry with 4 elves out. You don't need to win or get a kill with it.

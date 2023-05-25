@@ -11,6 +11,9 @@ title: "Achievements"
 It's been 2 or 3 years since I've done a lot of these achievements, so let me know if any information can be added or changed.
 
 
+PLEASE BE AWARE THAT EXTREMELY SHORT GAMES(~2 TURNS) MAY PREVENT THE ACHIEVMENT OF CERTAIN ACHIEVEMENTS
+
+
 {% include_relative enchanter.md %}
 
 
@@ -119,7 +122,7 @@ It's been 2 or 3 years since I've done a lot of these achievements, so let me kn
 {% include_relative cogs_arcanist.md %}
 
 
-{% include_relative seasons_arcanistmd %}
+{% include_relative seasons_arcanist.md %}
 
 
 {% include_relative illusion_arcanist.md %}

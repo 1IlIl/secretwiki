@@ -12,10 +12,11 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 
 ## Contents
 [Extendo Stuff](#extendo-stuff) 
+[Tree BFTP](#tree-bftp) 
 
 <br/><br/><br/><br/>
 {% include_relative things/extendo_stuff.md  %}
 <br/><br/><br/><br/>
-{% include_relative things/extendo_stuff.md  %}
+{% include_relative things/tree_bftp.md  %}
 
 

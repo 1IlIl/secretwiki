@@ -13,10 +13,17 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 ## Contents
 [Extendo Stuff](#extendo-stuff) 
 [Tree BFTP](#tree-bftp) 
+[Bombs and why they phase](#bombs-and-why-they-phase) 
+[Make your bombs sticky](#make-your-bombs-sticky) 
+[Aerials and the Tops and Bottoms of the world.](#aerials-and-the-tops-and-bottoms-of-the-world)
 
 <br/><br/><br/><br/>
 {% include_relative things/extendo_stuff.md  %}
 <br/><br/><br/><br/>
 {% include_relative things/tree_bftp.md  %}
-
-
+<br/><br/><br/><br/>
+{% include_relative things/bombs_and_why_they_phase.md  %}
+<br/><br/><br/><br/>
+{% include_relative things/make_your_bombs_sticky.md %}
+<br/><br/><br/><br/>
+{% include_relative things/aerials_and_the_tops_and_bottoms_of_the_world.md %}

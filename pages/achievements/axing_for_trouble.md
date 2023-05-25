@@ -1,4 +1,4 @@
-## ![Axing_for_trouble_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Axing_for_trouble.png) Axing_for_trouble
+## ![Axing_for_trouble_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Axing for Trouble.png) Axing for Trouble
 
 
 

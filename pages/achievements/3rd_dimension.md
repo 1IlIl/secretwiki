@@ -1,4 +1,4 @@
-## ![3rd_dimension_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/3rd_dimension.png) 3rd_dimension
+## ![3rd_dimension_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/3rd Dimension.png) 3rd Dimension
 
 
 

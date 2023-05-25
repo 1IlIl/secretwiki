@@ -1,4 +1,4 @@
-## ![Throwing_arm_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Throwing_arm.png) Throwing_arm
+## ![Throwing_arm_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Throwing Arm.png) Throwing Arm
 
 
 

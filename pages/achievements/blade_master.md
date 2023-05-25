@@ -1,4 +1,4 @@
-## ![Blade_master_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Blade_master.png) Blade_master
+## ![Blade_master_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Blade Master.png) Blade Master
 
 
 

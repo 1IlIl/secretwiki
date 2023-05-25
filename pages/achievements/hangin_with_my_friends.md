@@ -1,4 +1,4 @@
-## ![Hangin_with_my_friends_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Hangin_with_my_friends.png) Hangin_with_my_friends
+## ![Hangin_with_my_friends_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Hangin' with my friends.png) Hangin' with my friends
 
 
 

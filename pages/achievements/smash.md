@@ -1,4 +1,4 @@
-## ![Smash_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Smash.png) Smash
+## ![Smash_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/SMASH!.png) SMASH!
 
 
 

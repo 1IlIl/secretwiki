@@ -1,4 +1,4 @@
-## ![Whiter_than_white_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Whiter_than_white.png) Whiter_than_white
+## ![Whiter_than_white_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Whiter than White.png) Whiter than White
 
 
 

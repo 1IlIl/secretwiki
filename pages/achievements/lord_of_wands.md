@@ -1,4 +1,4 @@
-## ![Lord_of_wands_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Lord_of_wands.png) Lord_of_wands
+## ![Lord_of_wands_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Lord of Wands.png) Lord of Wands
 
 
 

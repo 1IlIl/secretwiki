@@ -1,4 +1,4 @@
-## ![Sanctify_yourself_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Sanctify_yourself.png) Sanctify_yourself
+## ![Sanctify_yourself_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Sanctify Yourself.png) Sanctify Yourself
 
 
 

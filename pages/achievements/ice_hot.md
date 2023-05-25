@@ -1,4 +1,4 @@
-## ![Ice_hot_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Ice_hot.png) Ice_hot
+## ![Ice_hot_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Ice Hot.png) Ice Hot
 
 
 

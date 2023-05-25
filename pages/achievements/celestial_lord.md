@@ -1,4 +1,4 @@
-## ![Celestial_lord_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Celestial_lord.png) Celestial_lord
+## ![Celestial_lord_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Celestial Lord.png) Celestial Lord
 
 
 

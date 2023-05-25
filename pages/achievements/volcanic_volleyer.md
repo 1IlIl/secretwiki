@@ -1,8 +1,4 @@
-## ![Volcanic_volleyer_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Volcanic_volleyer.png) Volcanic_volleyer
+## ![Volcanic_volleyer_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Volcanic Volleyer.png) Volcanic Volleyer
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Deal 250,000 total damage in rated games. No secrets or tricks here.

@@ -1,8 +1,5 @@
-## ![Wrath_wreaker_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Wrath_wreaker.png) Wrath_wreaker
+## ![Wrath_wreaker_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Wrath Wreaker.png) Wrath Wreaker
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
+Deal 1000 total damage in rated games. No secrets or tricks here.
 

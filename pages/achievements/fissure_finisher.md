@@ -1,8 +1,4 @@
-## ![Fissure_finisher_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Fissure_finisher.png) Fissure_finisher
+## ![Fissure_finisher_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Fissure Finisher.png) Fissure Finisher
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Deal 1,000,000 total damage in rated games. No secrets or tricks here.

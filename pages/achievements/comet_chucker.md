@@ -1,8 +1,4 @@
-## ![Comet_chucker_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Comet_chucker.png) Comet_chucker
+## ![Comet_chucker_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Comet Chucker.png) Comet Chucker
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Deal 25,000 total damage in rated games. No secrets or tricks here.

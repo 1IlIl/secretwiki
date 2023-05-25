@@ -34,7 +34,7 @@ Similarly, a Charge that is aimed down will dig, such that both the dk and the t
 Something to note about this configuration is that whatever is above the dk will take no damage. This means you can stand on top of the dk in order to set up a trap from this.
 
 
-![dk6](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/dk6.gif)
+![dk6](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/dk6gif.gif)
 
 
 While in OG spells mode, there is an alternative trick to dealing a lot of damage with Charge. This trick is called Dark Knight Hump, or DKH. I will explain meticulously how to maximize it. First you want your dk to be on top of the player and not quite centered. Then simply zoom in to the Dark Knight and look for a vertical shading line that splits the main color of the mask from the shaded part.Aim slightly below the start of the black border of the hand down vertically from that line I mentioned first. Do this as I do and you will have it.

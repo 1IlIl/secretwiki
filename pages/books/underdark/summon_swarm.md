@@ -37,6 +37,6 @@ Swarm has a unique interaction with the side of the map, such that it can break 
 Something else to note about swarm is that if you are precise enough, you can hit two targets with it at once. Because they are most likely on top of eachother , this will deal 30 to the bottom one and 15 to the top one.
 
 
-![swarm6](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/swarm6.gif)
+![swarm6](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/swarm+1.gif)
 
 

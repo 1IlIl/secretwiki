@@ -1,8 +1,4 @@
-## ![Master_of_cogs_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_of_cogs.png) Master_of_cogs
+## ![Master_of_cogs_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master of Cogs.png) Master of Cogs
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Win a rated game with the entire book of cogs. Elemental does NOT count.

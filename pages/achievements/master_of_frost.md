@@ -1,8 +1,4 @@
-## ![Master_of_frost_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_of_frost.png) Master_of_frost
+## ![Master_of_frost_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master of Frost.png) Master of Frost
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Win a rated game with the entire book of frost. Elemental does NOT count.

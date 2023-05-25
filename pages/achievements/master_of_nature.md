@@ -1,8 +1,5 @@
-## ![Master_of_nature_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_of_nature.png) Master_of_nature
+## ![Master_of_nature_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master of Nature.png) Master of Nature
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
+Win a rated game with the entire book of nature. Elemental does NOT count.
 

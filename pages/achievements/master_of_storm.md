@@ -1,8 +1,4 @@
-## ![Master_of_storm_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_of_storm.png) Master_of_storm
+## ![Master_of_storm_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master of Storm.png) Master of Storm
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Win a rated game with the entire book of storm. Elemental does NOT count.

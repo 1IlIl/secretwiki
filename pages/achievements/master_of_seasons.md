@@ -1,8 +1,4 @@
-## ![Master_of_seasons_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_of_seasons.png) Master_of_seasons
+## ![Master_of_seasons_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master of Seasons.png) Master of Seasons
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Win a rated game with the entire book of seasons. Elemental does NOT count. You also may achieve this by using the book of holiday.

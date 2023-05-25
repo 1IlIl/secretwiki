@@ -1,8 +1,4 @@
-## ![Master_of_the_wilds_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_of_the_wilds.png) Master_of_the_wilds
+## ![Master_of_the_wilds_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master of the Wilds.png) Master of the Wilds
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Win a rated game with the entire book of the wilds. Elemental does NOT count.

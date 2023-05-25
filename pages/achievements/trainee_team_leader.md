@@ -1,4 +1,4 @@
-## ![Trainee_team_leader_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Trainee_team_leader.png) Trainee_team_leader
+## ![Trainee_team_leader_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Trainee Team Leader.png) Trainee Team Leader
 
 
 

@@ -1,4 +1,4 @@
-## ![Cursed_earth_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Cursed_earth.png) Cursed_earth
+## ![Cursed_earth_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Cursed Earth.png) Cursed Earth
 
 
 

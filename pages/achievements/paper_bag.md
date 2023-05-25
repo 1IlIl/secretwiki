@@ -1,4 +1,4 @@
-## ![Paper_bag_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Paper_bag.png) Paper_bag
+## ![Paper_bag_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Paper Bag.png) Paper Bag
 
 
 

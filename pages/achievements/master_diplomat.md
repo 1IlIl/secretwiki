@@ -1,4 +1,4 @@
-## ![Master_diplomat_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master_diplomat.png) Master_diplomat
+## ![Master_diplomat_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Master Diplomat.png) Master Diplomat
 
 
 

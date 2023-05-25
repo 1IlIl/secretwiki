@@ -1,4 +1,4 @@
-## ![Team_worker_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Team_worker.png) Team_worker
+## ![Team_worker_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Team Worker.png) Team Worker
 
 
 

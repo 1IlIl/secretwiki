@@ -1,4 +1,4 @@
-## ![Critical_hit_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Critical_hit.png) Critical_hit
+## ![Critical_hit_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Critical Hit.png) Critical Hit
 
 
 

@@ -4,5 +4,5 @@
 
 
 <video controls="true" width="800" height="500" ><source src="https://www.youtube.com/watch?v=7gzY973exNk"></video>
-{% include youtube.html id= "7gzY973exNk" %}
+{% include youtube.html id="7gzY973exNk" %}
 

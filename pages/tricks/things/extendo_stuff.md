@@ -4,7 +4,9 @@
 ### Extendo and what it actually means
 Extendo, or Extend, or Alt, Whatever you want to call it, it’s the functionality they want you to think is just about throwing spells further. Nah, it comes in handy in other ways. One of the tricks is that extendo  actually starts the projectile further away from the character.
 
-
+<video>
+<source src="https://raw.githubusercontent.com/1IlIl/wikidata/main/tra_trsw2_stuff/ExtendoProjectiles.mp4">
+</video>
 ![extendoprojectiles.mp4](https://raw.githubusercontent.com/1IlIl/wikidata/main/tra_trsw2_stuff/ExtendoProjectiles.mp4)
 
 

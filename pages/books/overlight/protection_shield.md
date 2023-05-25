@@ -46,11 +46,11 @@ What happens if you protection shield after is that you only near to clear an am
 While Aura of Decay will stun most creatures,the exceptions to this are undead minions and minions with a protection shield that was applied after the turn that the aura of decay was cast.
 
 
-![prot8](https://raw.githubusercontent.com/1IlIl/wikidata/main/overlight/gifs/prot8.gif)
+![aura2](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/aura2.gif)
 
 
 Something to note is that having prot is not enough to prevent the stun. If you have a protection shield that was applied first, then the aura will still stun you.
 
 
-![prot9](https://raw.githubusercontent.com/1IlIl/wikidata/main/overlight/gifs/prot9.gif)
+![aura4](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/aura4.gif)
 

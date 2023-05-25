@@ -40,7 +40,7 @@ The other method of getting out with bftp is to bftp downward. This angle is the
 The only other bftp to know is bftping in from outside. This can only be done using the following trick. Bftping from the top is not possible no matter how close it looks. The angle to get into tree is 6th from the top. Just remember , 2 - 4 - 6, from most common to least common.
 
 
-![seedgifsfml](https://raw.githubusercontent.com/1IlIl/wikidata/main/overlight/gifs/tree_bftpin.gif)
+![seedgifsfml](https://raw.githubusercontent.com/1IlIl/wikidata/main/overlight/gifs/tree_bftpupin.gif)
 
 
 There’s other tricks to be done with Forest seed as well. One of them is to utilize the fact that forest seed allows certain projectiles to pass through it .One of these is chain lightning.

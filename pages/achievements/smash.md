@@ -1,8 +1,4 @@
 ## ![Smash_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/SMASH!.png) SMASH!
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+Sink an opponent(or yourself if it's not patched) with Adolescent Dragon Rake, Golem Punch, Giant Smash, or Ent-Whip

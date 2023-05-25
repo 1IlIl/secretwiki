@@ -11,7 +11,10 @@ title: "Achievements"
 It's been 2 or 3 years since I've done a lot of these achievements, so let me know if any information can be added or changed.
 
 
-PLEASE BE AWARE THAT EXTREMELY SHORT GAMES(~2 TURNS) MAY PREVENT THE ACHIEVMENT OF CERTAIN ACHIEVEMENTS
+PLEASE BE AWARE THAT EXTREMELY SHORT GAMES(~2 TURNS) MAY PREVENT THE ACHIEVEMENT OF CERTAIN ACHIEVEMENTS
+
+
+TUTORIALS WITH THE ENCHANTER DESCRIPTION ARE INCOMPLETE
 
 
 {% include_relative enchanter.md %}

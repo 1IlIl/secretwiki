@@ -1,0 +1,3 @@
+### Bombs and Why They Phase
+I’m pretty sure all spells phase due to them starting within the character without Extend. In the case of bombs, if you try to squish it between you and the player, you must first create enough space for the bomb to leave your player. Alternatively, you can use the Alt key to extend the bomb to stick to the player, but this, in all cases except Arcane Bomb is a bad idea. Bombs with children projectiles such as ice and magma that are extended into players are coded so that they are less effective than bomb sticks or bombs that land near/on top of your opponent.
+<video controls="true" width="800" height="500" ><source src="https://raw.githubusercontent.com/1IlIl/wikidata/main/tra_trsw2_stuff/BombsPhase.mp4"></video>

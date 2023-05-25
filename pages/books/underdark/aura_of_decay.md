@@ -16,13 +16,13 @@ The exceptions to this are undead minions and minions with a protection shield t
 Something to note is that having prot is not enough to prevent the stun. If you have a protection shield that was applied first, then the aura will still stun you.
 
 
-![aura3](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/aura3.gif)
+![aura4](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/aura4.gif)
 
 
 Similarly to what I mentioned in the swarm section, there is a concept that minions hit by auras will check if there is anything below them, then apply damage to the minion below them as well.
 
 
-![aura4](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/aura4.gif)
+![aura3](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/aura3.gif)
 
 
 While players will often move out of the aura if you place it on them, towers cannot always do the same, making aura of decay very useful for hitting players in towers,leaving them to eventually take the full 75 or leave the tower.

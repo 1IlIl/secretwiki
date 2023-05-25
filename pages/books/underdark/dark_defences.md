@@ -28,6 +28,4 @@ While multiple minions heal you 1:1, in which 1 minion health heals you 1, not a
 In addition to this, it’s important to remember that if there are multiple minions, it will try to take health from each equally, splitting the cost of dark defenses.This health is split based on player and not the modifier of the minion, meaning a split from the player taking 4 damage will deal 2 to a flame dragon and 4 to a water lord if those are your two minions being siphoned.
 
 
-![dd5](https://raw.githubusercontent.com/1IlIl/wikidata/main/underdark/gifs/dd5.gif)
-
 

@@ -2,7 +2,4 @@
 
 
 
-
-
-Win a rated game. No secrets or tricks here.
-
+Summon 2 or more dragons and win after.

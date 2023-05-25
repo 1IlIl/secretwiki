@@ -1,8 +1,4 @@
 ## ![Subversion_Icon](https://raw.githubusercontent.com/1IlIl/wikidata/main/achievement_icons/Subversion.png) Subversion
 
 
-
-
-
-Win a rated game. No secrets or tricks here.
-
+You need to zombify both a pegasus and a paladin. You don't need to zombify your opponents, so get creative.

@@ -278,6 +278,12 @@ TUTORIALS WITH THE ENCHANTER DESCRIPTION ARE INCOMPLETE
 {% include_relative dust_to_dust.md %}
 
 
+{% include_relative skimmer.md %}
+
+
+{% include_relative drop_shot.md %}
+
+
 {% include_relative smash.md %}
 
 

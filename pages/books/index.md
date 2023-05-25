@@ -43,44 +43,55 @@ title: "Books"
 
 
 ### Book of Nature
+(incomplete)
 [Book of Nature]({{site.books}}/nature)
 
 
 ### Book of Seas
+(incomplete)
 [Book of Seas]({{site.books}}/seas)
 
 
 ### Book of Cogs
+(incomplete)
 [Book of Cogs]({{site.books}}/cogs)
 
 
 ### Book of Holiday
+(incomplete)
 [Book of Holiday]({{site.books}}/holiday)
 
 
 ### Book of Illusion
+(incomplete)
 [Book of Illusion]({{site.books}}/illusion)
 
 
 ### Book of Blood
+(incomplete)
 [Book of Blood]({{site.books}}/blood)
 
 
 ### Book of Seasons
+(incomplete)
 [Book of Seasons]({{site.books}}/seasons)
 
 
 ### Book of Wilds
+(incomplete)
 [Book of Wilds]({{site.books}}/wilds)
 
 
 ### Book of Cosmos
+(incomplete)
 [Book of Cosmos]({{site.books}}/cosmos)
 
 
 ### Book of Sands
+(incomplete)
 [Book of Sands]({{site.books}}/sands)
 
 
 ### Book of Metal
+(incomplete)
 [Book of Metal]({{site.books}}/metal)

@@ -20,6 +20,9 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 [Elevatoring](#elevatoring)
 [Pegasis Penetration](#pegasus-penetration)
 [Flying Pegasis Penetration](#flying-pegasus-penetration)
+[Ladder](#ladder)
+[Shoot arrow straight up](#shoot-arrow-straight-up)
+[Mounted creatures and taking damage](#mounted-creatures-and-taking-damage)
 
 <br/><br/><br/><br/>
 {% include_relative things/extendo_stuff.md  %}
@@ -39,3 +42,9 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 {% include_relative things/pegasus_penetration.md %}
 <br/><br/><br/><br/>
 {% include_relative things/flying_pegasus_penetration.md %}
+<br/><br/><br/><br/>
+{% include_relative things/ladder.md %}
+<br/><br/><br/><br/>
+{% include_relative things/shoot_arrow_straight_up.md %}
+<br/><br/><br/><br/>
+{% include_relative things/mounted_creatures_and_taking_damage.md %}

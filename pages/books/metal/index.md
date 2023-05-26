@@ -14,12 +14,12 @@ Book of Metal will probably never exist for many reasons , but the most importan
 
 
 # ART! Excuse me I am not trained in art at any capacity, but there's only so many pixels to mess up right...
-![icon]({site.baseurl}/books/metal/Finalized/Icon/Book of Metal.png)
-![bomb sprite]({site.baseurl}/books/metal/Finalized/Bomb/bomb.png)
+![icon](Finalized/Icon/Book of Metal.png)
+![bomb sprite](Finalized/Bomb/bomb.png)
 
 
 # DRAFTING
-![explosion](Drafting/bright centered explosion.gif)
+![explosion](Drafting/bright centerd explosion.gif)
 ![corner](Drafting/corner.png)
 ![draftmine](Drafting/draftmine1.png)
 ![wonkyhelmet](Drafting/wonkyhelmet.png)

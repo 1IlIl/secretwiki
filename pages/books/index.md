@@ -9,89 +9,22 @@ title: "Books"
 
 
 
-### Arcane
-[Arcane]({{site.books}}/arcane)
-
-
-### Arcane Monster
-[Arcane Monster]({{site.books}}/arcane_monster)
-
-
-### Book of Flame 
-[Book of Flame]({{site.books}}/flame)
-
-
-### Book of Stone
-[Book of Stone]({{site.books}}/stone)
-
-
-### Book of Storm
-[Book of Storm]({{site.books}}/storm)
-
-
-### Book of Frost
-[Book of Frost]({{site.books}}/frost)
-
-
-
-### Book of Underdark
-[Book of Underdark]({{site.books}}/underdark)
-
-
-### Book of Overlight
-[Book of Overlight]({{site.books}}/overlight)
-
-
-### Book of Nature
-(incomplete)
-[Book of Nature]({{site.books}}/nature)
-
-
-### Book of Seas
-(incomplete)
-[Book of Seas]({{site.books}}/seas)
-
-
-### Book of Cogs
-(incomplete)
-[Book of Cogs]({{site.books}}/cogs)
-
-
-### Book of Holiday
-(incomplete)
-[Book of Holiday]({{site.books}}/holiday)
-
-
-### Book of Illusion
-(incomplete)
-[Book of Illusion]({{site.books}}/illusion)
-
-
-### Book of Blood
-(incomplete)
-[Book of Blood]({{site.books}}/blood)
-
-
-### Book of Seasons
-(incomplete)
-[Book of Seasons]({{site.books}}/seasons)
-
-
-### Book of Wilds
-(incomplete)
-[Book of Wilds]({{site.books}}/wilds)
-
-
-### Book of Cosmos
-(incomplete)
-[Book of Cosmos]({{site.books}}/cosmos)
-
-
-### Book of Sands
-(incomplete)
-[Book of Sands]({{site.books}}/sands)
-
-
-### Book of Metal
-(incomplete)
-[Book of Metal]({{site.books}}/metal)
+- [Arcane]({{site.books}}/arcane)
+- [Arcane Monster]({{site.books}}/arcane_monster)
+- [Book of Flame]({{site.books}}/flame)
+- [Book of Stone]({{site.books}}/stone)
+- [Book of Storm]({{site.books}}/storm)
+- [Book of Frost]({{site.books}}/frost)
+- [Book of Underdark]({{site.books}}/underdark)
+- [Book of Overlight]({{site.books}}/overlight)
+- [Book of Nature]({{site.books}}/nature)(unimplemented)
+- [Book of Seas]({{site.books}}/seas)(unimplemented)
+- [Book of Cogs]({{site.books}}/cogs)(unimplemented)
+- [Book of Holiday]({{site.books}}/holiday)(unimplemented)
+- [Book of Illusion]({{site.books}}/illusion)(unimplemented)
+- [Book of Blood]({{site.books}}/blood)(unimplemented)
+- [Book of Seasons]({{site.books}}/seasons)(unimplemented)
+- [Book of Wilds]({{site.books}}/wilds)(unimplemented)
+- [Book of Cosmos]({{site.books}}/cosmos)(unimplemented)
+- [Book of Sands]({{site.books}}/sands)(unimplemented)
+- [Book of Metal]({{site.books}}/metal)(unimplemented)

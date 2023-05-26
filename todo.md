@@ -1,0 +1,11 @@
+#### TODO
+- make sure the "beyong the spell tooltips" from TRA all get put in their books
+- figure out if I want to put the books section from TRA in
+- Random knowledge section transfered over from TRA
+- More knowledge sectin transferred over from TRA
+- links to tutorial docs and other tut stuff
+- hidden costume lore from TRA
+- figure out if I want to put concept books and stuff in
+- reread todo from TRA
+- figure out if I want any of the unofficial tut repo to go here or to new public repo
+- reread secret wiki 2 TODO, it's on homepage

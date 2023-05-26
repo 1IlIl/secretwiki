@@ -19,11 +19,11 @@ Book of Metal will probably never exist for many reasons , but the most importan
 
 
 #DRAFTING
-![explosion]({site.baseurl}/books/metal/Drafting/bright centered explosion.gif)
-![corner]({site.baseurl}/books/metal/Drafting/corner.png)
-![draftmine]({site.baseurl}/books/metal/Drafting/draftmine1.png)
-![wonkyhelmet]({site.baseurl}/books/metal/Drafting/wonkyhelmet.png)
-![randomogrebodystyle]({site.baseurl}/books/metal/Drafting/random ogre body type idea.png)
+![explosion](Drafting/bright centered explosion.gif)
+![corner](Drafting/corner.png)
+![draftmine](Drafting/draftmine1.png)
+![wonkyhelmet](Drafting/wonkyhelmet.png)
+![randomogrebodystyle](Drafting/random ogre body type idea.png)
 
 
 

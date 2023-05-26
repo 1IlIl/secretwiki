@@ -16,6 +16,7 @@ Book of Metal will probably never exist for many reasons , but the most importan
 # ART! Excuse me I am not trained in art at any capacity, but there's only so many pixels to mess up right...
 ![icon](Finalized/Icon/Book of Metal.png)
 ![bomb sprite](Finalized/Bomb/bomb.png)
+![moab](Drafting/moab.png)
 
 
 # DRAFTING
@@ -23,10 +24,6 @@ Book of Metal will probably never exist for many reasons , but the most importan
 ![corner](Drafting/corner.png)
 ![draftmine](Drafting/draftmine1.png)
 ![wonkyhelmet](Drafting/wonkyhelmet.png)
-![moab](Drafting/moab.png)
-
-
-
 ![randomogrebodystyle](Drafting/random ogre body type idea.png)
 
 

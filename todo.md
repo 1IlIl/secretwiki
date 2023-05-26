@@ -9,3 +9,4 @@
 - reread todo from TRA
 - figure out if I want any of the unofficial tut repo to go here or to new public repo
 - reread secret wiki 2 TODO, it's on homepage
+- move metal art out of repo

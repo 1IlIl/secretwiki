@@ -23,6 +23,10 @@ Book of Metal will probably never exist for many reasons , but the most importan
 ![corner](Drafting/corner.png)
 ![draftmine](Drafting/draftmine1.png)
 ![wonkyhelmet](Drafting/wonkyhelmet.png)
+![moab](Drafting/moab.png)
+
+
+
 ![randomogrebodystyle](Drafting/random ogre body type idea.png)
 
 

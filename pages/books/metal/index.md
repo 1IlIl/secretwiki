@@ -9,24 +9,39 @@ title: "Book of Metal"
 <br />
 # ![tooltip]({{site.miscimages}}/walkinggrapple.gif)Secret Wiki - Book of Metal![tooltip]({{site.miscimages}}/walkinggrapple.gif)
 
+Book of Metal will probably never exist for many reasons , but the most important being that I am not at all involved in book creation for arc 2, or have ever been, but we all like to dream right. I'm going to share some concept art for the book art here as I make it. I've amassed the skills to actually implement art and maybe spells so maybe I'll do some cool demos in here too at some point.
 
-placeholder(spells out of order)
+
+
+#ART! Excuse me I am not trained in art at any capacity, but there's only so many pixels to mess up right...
+![icon]({site.baseurl}/books/metal/Finalized/Icon/Book of Metal.png)
+![bomb sprite]({site.baseurl}/books/metal/Finalized/Bomb/bomb.png)
+
+
+#DRAFTING
+![explosion]({site.baseurl}/books/metal/Drafting/bright centered explosion.gif)
+![corner]({site.baseurl}/books/metal/Drafting/corner.png)
+![draftmine]({site.baseurl}/books/metal/Drafting/draftmine1.png)
+![wonkyhelmet]({site.baseurl}/books/metal/Drafting/wonkyhelmet.png)
+![randomogrebodystyle]({site.baseurl}/books/metal/Drafting/random ogre body type idea.png)
+
+
 
 
 <br />
 ## Spells: 
-[Bomb Bolt](#bomb-bolt) 
-[Iron Ogre](#iron-ogre) 
-[Iron Skin](#iron-skin) 
-[Rusty Mine](#rusty-mine) 
-[Heavy Armor](#heavy-armor) 
-[Molten Arrow](#molten-arrow) 
-[Iron Ogre Advancement](#iron-ogre-advancement) 
-[Unstable Blast Furnace](#unstable-blast-furnace) 
-[M.O.A.B.](#m.o.a.b.) 
-[Bandolier](#bandolier) 
-[Cluster Bomb](#cluster-bomb) 
-[Iron Dragon](#iron-dragon) 
+[?Bomb Bolt](#bomb-bolt) 
+[?Iron Ogre](#iron-ogre) 
+[?Iron Skin](#iron-skin) 
+[?Rusty Mine](#rusty-mine) 
+[?Heavy Armor](#heavy-armor) 
+[?Molten Arrow](#molten-arrow) 
+[?Iron Ogre Advancement](#iron-ogre-advancement) 
+[?Unstable Blast Furnace](#unstable-blast-furnace) 
+[?M.O.A.B.](#m.o.a.b.) 
+[?Bandolier](#bandolier) 
+[?Cluster Bomb](#cluster-bomb) 
+[?Iron Dragon](#iron-dragon) 
 
 <br /><br /><br /><br />
 

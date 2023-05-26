@@ -1,4 +1,4 @@
-### Walking upward vs walking downward
+### Walking upwards vs walking downwards
 
 
 In Arcanists 2, you need to be aware of creating pathways that are one-way. Walking up and down is not the same; I will give an example and you should understand, k?

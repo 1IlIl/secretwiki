@@ -24,7 +24,7 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 [Shoot arrow straight up](#shoot-arrow-straight-up)
 [Mounted creatures and taking damage](#mounted-creatures-and-taking-damage)
 [Aura Stacking](#aura-stacking)
-[Walking upward vs walking downward](#walking-upward-vs-walking-downward)
+[Walking upwards vs walking downwards](#walking-upwards-vs-walking-downwards)
 
 <br/><br/><br/><br/>
 {% include_relative things/extendo_stuff.md  %}
@@ -53,4 +53,4 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 <br/><br/><br/><br/>
 {% include_relative things/aura_stacking.md %}
 <br/><br/><br/><br/>
-{% include_relative things/walking_upward_vs_walking_downward.md %}
+{% include_relative things/walking_upwards_vs_walking_downwards.md %}

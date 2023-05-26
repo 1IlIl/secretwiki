@@ -25,6 +25,7 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 [Mounted creatures and taking damage](#mounted-creatures-and-taking-damage)
 [Aura Stacking](#aura-stacking)
 [Walking upwards vs walking downwards](#walking-upwards-vs-walking-downwards)
+[360 No Scope Drop Shotting](#360-no-scope-drop-shotting)
 
 <br/><br/><br/><br/>
 {% include_relative things/extendo_stuff.md  %}
@@ -54,3 +55,5 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 {% include_relative things/aura_stacking.md %}
 <br/><br/><br/><br/>
 {% include_relative things/walking_upwards_vs_walking_downwards.md %}
+<br/><br/><br/><br/>
+{% include_relative things/360_no_scope_drop_shotting.md %}

@@ -29,7 +29,7 @@ This page is going to be a bit of a mess for a number of reasons.I'm just focuss
 [Using mountable units to improve knockback to self](#using-mountable-units-to-improve-knockback-to-self)
 [Gate below to mount](#gate-below-to-mount)
 [Demounting when there's a low ceiling](#demounting-when-theres-a-low-ceiling)
-[Dropping minion straight down](#dropping-minion-straight-donw)
+[Dropping minion straight down](#dropping-minion-straight-down)
 [Momentum with flight through portal to escape trap](#momentum-with-flight-through-portal-to-escape-trap)
 [Monster top border jumping](#monster-top-border-jumping)
 [Arcane monster bomb stick trick for illusion](#arcane-monster-bomb-stick-trick-for-illusion)

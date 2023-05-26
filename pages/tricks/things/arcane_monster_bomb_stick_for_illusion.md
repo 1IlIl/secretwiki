@@ -1,4 +1,4 @@
-### Arcane Monsster bomb stick for illusion
+### Arcane Monster bomb stick for illusion
 
 
 The trick is to stand on your opponent such that your forward foot is centered on them, then extend using the second angle from the bottom.

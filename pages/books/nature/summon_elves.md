@@ -28,4 +28,11 @@ The arrows cannot hurt the elf that cast them, there is no self damage, however 
 ![elves4](https://raw.githubusercontent.com/1IlIl/wikidata/main/nature/gifs/elves4.gif)
 
 
+
+The volley target can move in the form of terrain destruction, and will never go away after cast unless it falls off the map into the water.
+
+
+![elves5](https://raw.githubusercontent.com/1IlIl/wikidata/main/nature/gifs/elves5.gif)
+
+
 Your teamate or opponent can also put down volley targets, so watch out for that!

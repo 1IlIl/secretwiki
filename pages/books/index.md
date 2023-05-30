@@ -17,7 +17,7 @@ title: "Books"
 - [Book of Frost]({{site.books}}/frost)
 - [Book of Underdark]({{site.books}}/underdark)
 - [Book of Overlight]({{site.books}}/overlight)
-- [Book of Nature]({{site.books}}/nature)(unimplemented)
+- [Book of Nature]({{site.books}}/nature)
 - [Book of Seas]({{site.books}}/seas)(unimplemented)
 - [Book of Cogs]({{site.books}}/cogs)(unimplemented)
 - [Book of Holiday]({{site.books}}/holiday)(unimplemented)

@@ -15,37 +15,38 @@
     <div id="example-table"></div>
     <script type="text/javascript">
 		var table = new Tabulator("#example-table", {
-			resizableRows:false,
 			height:"500px",
 			data:tabledata,
 			columns:[
 			<!-- general info -->
-			{title:"Placing", field:"placing", resizableColumns:false, sorter:"number"},
-			{title:"Name",  field:"name" ,resizableColumns:false},
-			{title:"Rating", field:"rating", sorter:"number" ,resizableColumns:false},
+			{title:"Placing", field:"placing", sorter:"number"},
+			{title:"Name", field:"name"},
+			{title:"Rating", field:"rating", sorter:"number"},
 			<!-- game counts info -->
-			{title:"Unrated", field:"unrated", sorter:"number",resizableColumns:false},
-			{title:"RatedTeams", field:"teams", sorter:"number",resizableColumns:false},
-			{title:"Rated", field:"rated", sorter:"number",resizableColumns:false},
-			{title:"TotalGames", field:"totalgames", sorter:"number",resizableColumns:false},
+			{title:"Unrated", field:"unrated", sorter:"number"},
+			{title:"RatedTeams", field:"teams", sorter:"number"},
+			{title:"Rated", field:"rated", sorter:"number"},
+			{title:"TotalGames", field:"totalgames", sorter:"number"},
 			<!-- rated infos -->
-			{title:"RatedWins", field:"ratedwins", sorter:"number",resizableColumns:false},
-			{title:"RatedDraws", field:"rateddraws", sorter:"number",resizableColumns:false},
-			{title:"RatedLosses", field:"ratedlosses", sorter:"number",resizableColumns:false},
+			{title:"RatedWins", field:"ratedwins", sorter:"number"},
+			{title:"RatedDraws", field:"rateddraws", sorter:"number"},
+			{title:"RatedLosses", field:"ratedlosses", sorter:"number"},
 			<!-- rated stats -->
-			{title:"RatedWin%", field:"ratedwinp", sorter:"number",resizableColumns:false},
-			{title:"RatedLose%", field:"ratedlosep", sorter:"number",resizableColumns:false},
-			{title:"RatedDraw%", field:"rateddrawp", sorter:"number",resizableColumns:false},
+			{title:"RatedWin%", field:"ratedwinp", sorter:"number"},
+			{title:"RatedLose%", field:"ratedlosep", sorter:"number"},
+			{title:"RatedDraw%", field:"rateddrawp", sorter:"number"},
 			
-			{title:"RatedLongestWS", field:"ratedlongestws", sorter:"number",resizableColumns:false},
-			{title:"RatedDamage", field:"rateddamage", sorter:"number",resizableColumns:false},
-			{title:"RatedKills", field:"ratedkills", sorter:"number",resizableColumns:false},
-			{title:"RatedSurvived", field:"ratedsurvived", sorter:"number",resizableColumns:false},
-			<!--{title:"Date Of Birth", field:"dob", hozAlign:"center",resizableColumns:false},-->
+			{title:"RatedLongestWS", field:"ratedlongestws", sorter:"number"},
+			{title:"RatedDamage", field:"rateddamage", sorter:"number"},
+			{title:"RatedKills", field:"ratedkills", sorter:"number"},
+			{title:"RatedSurvived", field:"ratedsurvived", sorter:"number"},
+			<!--{title:"Date Of Birth", field:"dob", hozAlign:"center"},-->
 			],
 		});
     </script>
-	<div><p>TODO:</br>2:Add last-updated note somewhere</br>3:Credit to grapplepi and pur3 extreme</br>4:Join Debug Discord to follow development https://discord.gg/hg4J2dPQN</p></div>
+	<div><p>See last update to data at https://github.com/1IlIl/lb_page/commits/main</p></p></div>
+	<div><p>Credit to grapplepi and pur3 extreme</p></p></div>
+	<div><p>Join Debug Discord to follow development https://discord.gg/hg4J2dPQN</p></p></div>
 </body>
 
 </html>

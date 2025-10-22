@@ -27,4 +27,3 @@ title: "Books"
 - [Book of Wilds]({{site.books}}/wilds)(unimplemented)
 - [Book of Cosmos]({{site.books}}/cosmos)(unimplemented)
 - [Book of Sands]({{site.books}}/sands)(unimplemented)
-- [Book of Metal]({{site.books}}/metal)(unimplemented)
